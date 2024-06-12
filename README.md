@@ -1,5 +1,5 @@
 
-# Project 3: Logic and Classical Planning
+# Logic and Classical Planning
 
 ![Packman Image](image.png)
 
