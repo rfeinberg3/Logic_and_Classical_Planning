@@ -1,7 +1,7 @@
 
 # Project 3: Logic and Classical Planning
 
-![Packman Image](image)
+![Packman Image](image.png)
 
 ## Introduction
 
