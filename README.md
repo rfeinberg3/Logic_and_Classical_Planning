@@ -1,6 +1,8 @@
 
 # Project 3: Logic and Classical Planning
 
+![Packman Image](image)
+
 ## Introduction
 
 In this project, we utilize simple Python functions to generate logical sentences describing Pacman physics (pacphysics) and employ a SAT solver, pycosat, to solve various logical inference tasks. These tasks include:
